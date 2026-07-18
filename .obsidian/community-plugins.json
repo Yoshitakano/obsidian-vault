@@ -3,5 +3,8 @@
   "templater-obsidian",
   "obsidian-git",
   "quickadd",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-linter",
+  "obsidian-excalidraw-plugin",
+  "periodic-notes"
 ]
